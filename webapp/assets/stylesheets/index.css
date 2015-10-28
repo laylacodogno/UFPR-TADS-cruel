@@ -12738,6 +12738,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 15px;
 }
 
+/* line 36, ../sass/index.scss */
+main {
+  min-height: 450px;
+}
 /* line 38, ../sass/index.scss */
 main h2 {
   font-size: 50px;
@@ -12780,4 +12784,9 @@ main .days-list .ingredient-list {
 /* line 68, ../sass/index.scss */
 main .days-list .ingredient-list .ingredient-item {
   font-size: 14px;
+}
+/* line 74, ../sass/index.scss */
+main .login-form {
+  max-width: 60%;
+  margin: 0 auto;
 }

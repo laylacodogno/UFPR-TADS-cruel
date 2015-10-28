@@ -34,7 +34,7 @@ h1,h2,h3,h4,h5,h6{
 
 // MAIN
 main{
-
+  min-height: 450px;
   h2{
     font-size: 50px;
     color: #9e9e9e;
@@ -69,6 +69,11 @@ main{
         font-size: 14px;
       }
     }
+  }
+
+  .login-form{
+    max-width: 60%;
+    margin: 0 auto;
   }
 }
 // fim MAIN

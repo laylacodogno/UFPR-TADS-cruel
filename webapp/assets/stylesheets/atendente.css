@@ -12795,59 +12795,38 @@ main .login-form {
   margin: 0 auto;
 }
 
-/* line 10, ../sass/admin.scss */
-main h3 {
-  font-size: 20px;
-  color: #9e9e9e;
-  margin: 25px 0;
-}
-/* line 15, ../sass/admin.scss */
-main h4 {
-  font-size: 16px;
-}
-/* line 18, ../sass/admin.scss */
-main .section {
-  display: inline-block;
-}
-/* line 21, ../sass/admin.scss */
-main .section .card-action {
-  background-color: white;
-}
-/* line 23, ../sass/admin.scss */
-main .section .card-action a {
-  color: blue;
-}
-
-/* line 34, ../sass/admin.scss */
-.nutri .nutri-list {
+/* line 19, ../sass/atendente.scss */
+.entry-list {
   overflow: auto;
 }
-/* line 36, ../sass/admin.scss */
-.nutri .nutri-list .nutri-item {
+/* line 21, ../sass/atendente.scss */
+.entry-list .entry-item {
   min-height: 30px;
   margin: 20px 3px;
   border-bottom: 1px solid gray;
 }
-/* line 43, ../sass/admin.scss */
-.nutri form {
+
+/* line 28, ../sass/atendente.scss */
+form {
   margin: 50px 0;
 }
-/* line 49, ../sass/admin.scss */
-.nutri .search-nutri #search-nutri:focus {
+
+/* line 34, ../sass/atendente.scss */
+.search-entry #search-entryi:focus {
   background-color: transparent;
   border-bottom: 1px solid #9e9e9e;
 }
-/* line 52, ../sass/admin.scss */
-.nutri .search-nutri #search-nutri:focus + label i {
+/* line 37, ../sass/atendente.scss */
+.search-entry #search-entryi:focus + label i {
   font-size: 14px;
 }
-/* line 58, ../sass/admin.scss */
-.nutri .search-nutri label i {
+/* line 43, ../sass/atendente.scss */
+.search-entry label i {
   display: inline-block;
   vertical-align: middle;
 }
-/* line 62, ../sass/admin.scss */
-.nutri .search-nutri label span {
+/* line 47, ../sass/atendente.scss */
+.search-entry label span {
   display: inline-block;
   vertical-align: middle;
 }
