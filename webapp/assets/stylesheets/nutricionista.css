@@ -12794,3 +12794,19 @@ main .login-form {
   max-width: 60%;
   margin: 0 auto;
 }
+
+/* line 9, ../sass/nutricionista.scss */
+.card-list {
+  overflow: auto;
+}
+/* line 11, ../sass/nutricionista.scss */
+.card-list .card-item {
+  min-height: 30px;
+  margin: 20px 3px;
+  border-bottom: 1px solid gray;
+}
+
+/* line 18, ../sass/nutricionista.scss */
+form {
+  margin: 50px 0;
+}
